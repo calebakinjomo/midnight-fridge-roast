@@ -1,0 +1,1 @@
+{"description":"make.fun entry: a one-line roast of a smart fridge that refuses to open after midnight","license":"MIT","main":"main.ts","name":"midnight-fridge-roast","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
